@@ -1,1 +1,1 @@
-@echo off & echo HelloXD & echo Press any key to close... & pause>nul & exit /B
+local "G=@echo off & echo HelloXD & echo Press any key to close... & pause>nul & exit /B"
